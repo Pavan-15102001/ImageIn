@@ -22,12 +22,7 @@ ImageIn is a modern, front-end web interface that combines a sleek image gallery
 
 3.Vanilla JavaScript for interactivity
 
-📂 Folder Structure
 
-/images           → contains all images
-index.html        → main webpage
-style.css         → custom styles
-script.js         → JS for transitions
 
 🚀 How to Use
 
